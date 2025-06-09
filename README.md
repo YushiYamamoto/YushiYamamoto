@@ -37,16 +37,18 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YushiYamamoto&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+  
+### 🏆 **Achievement Level: A+**
+<img src="https://img.shields.io/badge/GitHub_Rank-A+-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="A+ Developer" />
+<img src="https://img.shields.io/badge/AI_Specialist-Expert-00D4AA?style=for-the-badge&logo=openai&logoColor=white" alt="AI Expert" />
+
+### 📈 **Performance Metrics**
+<img src="https://github-readme-stats.vercel.app/api?username=YushiYamamoto&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_rank=true&custom_title=YUSHI YAMAMOTO's GitHub Stats" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YushiYamamoto&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak" />
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YushiYamamoto&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YushiYamamoto&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-</div>
 
 ## 🛠️ **Tech Stack**
 
