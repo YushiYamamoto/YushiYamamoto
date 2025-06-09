@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+YamamotoYushi+%F0%9F%91%8B;AI+%26+Automation+Specialist+%F0%9F%A4%96;Full-Stack+Engineer+%F0%9F%9A%80;Business+Process+Optimizer+%E2%9A%A1;Digital+Transformation+Leader+%F0%9F%93%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+YushiYamamoto+%F0%9F%91%8B;AI+%26+Automation+Specialist+%F0%9F%A4%96;Full-Stack+Engineer+%F0%9F%9A%80;Business+Process+Optimizer+%E2%9A%A1;Digital+Transformation+Leader+%F0%9F%93%88" alt="Typing SVG" />
 </div>
 
 ## 🌟 **About Me**
@@ -18,7 +18,7 @@
 </td>
 <td width="400" align="left">
 
-### 👋 **Hi, I'm YamamotoYushi!**
+### 👋 **Hi, I'm YushiYamamoto!**
 🤖 **AI・業務自動化専門フルスタックエンジニア**  
 
 🌍 **Location:** 本庄市, 埼玉県, 日本 🇯🇵  
@@ -26,6 +26,7 @@
 ⚡ **Achievement:** 業務効率化60%向上・ROI300%超  
 🎯 **Goal:** 企業のデジタル変革を加速  
 🚀 **Creator:** 「らくらくサイト」開発者  
+📝 **Writer:** Qiita技術ブログ執筆  
 
 </td>
 </tr>
@@ -36,15 +37,15 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YamamotoYushi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YushiYamamoto&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YamamotoYushi&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YushiYamamoto&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamamotoYushi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YushiYamamoto&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
 ## 🛠️ **Tech Stack**
@@ -84,7 +85,17 @@
 ## 🏆 **GitHub Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YamamotoYushi&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YushiYamamoto&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=6" />
+</div>
+
+## 📝 **Latest Blog Posts**
+
+<div align="center">
+
+### 🎯 **技術記事・アウトプット**
+- 📄 [【保存版】Gitリポジトリの最適運用 ワークフロー徹底解説！](https://qiita.com/YushiYamamoto/items/17ce530cb4df905b573d)
+- 🚀 [2025年 GitHub最新トレンド おすすめOSSプロジェクト5選](https://qiita.com/YushiYamamoto/items/9b6598257f34f1b3bdfe)
+
 </div>
 
 ## 🚀 **Featured Projects & Achievements**
@@ -116,6 +127,8 @@
 ### 💼 **業務委託・プロジェクト参画承ります**
 🤖 AI・自動化システム開発 | 📈 業務効率化コンサルティング | 🔄 継続的改善提案
 
+[![Qiita](https://img.shields.io/badge/-Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/YushiYamamoto)
+
 </div>
 
 <div align="center">
@@ -123,7 +136,7 @@
 </div>
 
 <div align="center">
-  **⭐ From [YamamotoYushi](https://github.com/YamamotoYushi) with ❤️**
+  **⭐ From [YushiYamamoto](https://github.com/YushiYamamoto) with ❤️**
   
   *"AI技術で未来を創る！🚀"*
 </div>
