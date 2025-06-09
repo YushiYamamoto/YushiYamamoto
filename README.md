@@ -94,11 +94,37 @@
 </tr>
 </table>
 
-## 🏆 **GitHub Trophies**
+## 🏆 **Professional Achievements**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YushiYamamoto&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=6" />
+
+### 💼 **Business Impact Trophies**
+
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/業務効率化-60%25_向上-success?style=for-the-badge&logo=trending-up" alt="Efficiency 60%" />
+<br>🚀 らくらくサイト実績
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/ROI-300%25+-critical?style=for-the-badge&logo=chart-line" alt="ROI 300%" />
+<br>📈 AIBOT社実績
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/医療DX-推進実績-blueviolet?style=for-the-badge&logo=hospital" alt="Medical DX" />
+<br>🏥 ファストドクター社
+</td>
+</tr>
+</table>
+
+### 🎖️ **Technical Excellence**
+<img src="https://img.shields.io/badge/React/Next.js-AAA-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React AAA" />
+<img src="https://img.shields.io/badge/Node.js/Laravel-S-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend S" />
+<img src="https://img.shields.io/badge/AI/RAG-AAA-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="AI AAA" />
+<img src="https://img.shields.io/badge/n8n_連携-S-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n S" />
+
 </div>
+
 
 ## 📝 **Latest Blog Posts**
 
@@ -115,9 +141,9 @@
 <div align="center">
 
 ### 💼 **Professional Experience**
-- 🏥 **ファストドクター社**: 医療DXプロジェクト推進
-- 🤖 **AIBOT社**: 業務自動化でROI300%超実現
-- 🌐 **「らくらくサイト」**: 業務効率化60%向上を達成
+- 🏥  **ファストドクター社** : 医療DXプロジェクト推進
+- 🤖  **AIBOT社** : 業務自動化でROI300%超実現
+- 🌐  **「らくらくサイト」** : 業務効率化60%向上を達成
 
 ### 🎯 **Specialized Services**
 ✅ AI・機械学習システム開発 ✅ RAGシステム実装  
@@ -148,7 +174,8 @@
 </div>
 
 <div align="center">
-  **⭐ From [YushiYamamoto](https://github.com/YushiYamamoto) with ❤️**
+  <strong>⭐ From <a href="https://github.com/YushiYamamoto">YushiYamamoto</a> with ❤️</strong>
   
-  *"AI技術で未来を創る！🚀"*
+  <em>"AI技術で未来を創る！🚀"</em>
 </div>
+
