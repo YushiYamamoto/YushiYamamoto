@@ -1,0 +1,16 @@
+{
+  "name": "yushiyamamoto-profile",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "GitHub profile README with a local GitHub-style preview server.",
+  "scripts": {
+    "preview": "node scripts/preview.mjs",
+    "lint:md": "markdownlint-cli2 \"README.md\""
+  },
+  "devDependencies": {
+    "github-markdown-css": "^5.8.1",
+    "markdown-it": "^14.1.0",
+    "markdownlint-cli2": "^0.14.0"
+  }
+}

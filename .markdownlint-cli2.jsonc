@@ -1,0 +1,15 @@
+{
+  // The profile README is intentionally HTML-heavy (badges, tables, centered
+  // layout), so relax the rules that fight with that presentation style.
+  "config": {
+    "default": true,
+    "MD012": false,
+    "MD013": false,
+    "MD022": false,
+    "MD032": false,
+    "MD033": false,
+    "MD041": false,
+    "MD045": false
+  },
+  "globs": ["README.md"]
+}
